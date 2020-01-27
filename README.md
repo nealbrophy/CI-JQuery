@@ -1,6 +1,6 @@
 # Code Institute
 
-Welcome USER_NAME,
+Welcome Neal Brophy,
 
 We have preinstalled all of the tools you need to get started.
 
